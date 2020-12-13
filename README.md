@@ -10,4 +10,4 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Related issue
 
-
+[https://github.com/PaulLeCam/react-leaflet/issues/808](https://github.com/PaulLeCam/react-leaflet/issues/808)
